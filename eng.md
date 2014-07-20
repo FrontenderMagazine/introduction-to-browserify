@@ -1,3 +1,5 @@
+# Introduction to browserify
+
 There’s all this wonderful code on `npm`, the node.js package manager.
 
 What if we could use that code in the browser?
