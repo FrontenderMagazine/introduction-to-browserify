@@ -86,6 +86,12 @@ index.html будет доступен по адресу <http://localhost:9966>
 > [*Learn.js*: руководство для создания javascript проектов][3], которая уже доступна для предзаказов
 
 
+______
+
+Автор статьи, Сет Винсент (Seth Vincent) — независимый разработчик, писатель и дизайнер. Сейчас работает над [http://flatsheet.io][4], дружелюбными к пользователю редактором и API для работы с табличными данными. А еще он обожает писать статьи о JavaScript в своем блоге [http://learnjs.io][5].
+
  [1]: https://github.com/substack/node-browserify
  [2]: https://github.com/chrisdickinson/beefy "beefy"
  [3]: http://learnjs.io "learn.js"
+ [4]: http://flatsheet.io
+ [5]: http://learnjs.io
